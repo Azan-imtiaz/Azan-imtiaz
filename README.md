@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/azan imtiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azan imtiaz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/azan's coding channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="azan's coding channel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azan imtiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azan imtiaz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azan-imtiaz-818471234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azan imtiaz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqwiVn_gV869dh1V8oMP4xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Azan's coding channel" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/azan_imtiaz43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azan imtiaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
